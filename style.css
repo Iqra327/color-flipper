@@ -1,0 +1,23 @@
+#green{
+  background-color: green;
+}
+#red{
+  background-color: red;
+}
+#blue{
+  background-color: blue;
+}
+button{
+  border-radius: 5px;
+  width: 100px;
+  height:40px;
+  margin: 10px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+}
+h1{
+  text-align: center;
+  padding-bottom: 30px;
+}
